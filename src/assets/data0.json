@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Name things you bring on a camping trip",
+        "1": {
+            "answer": "Tent",
+            "points": "36"
+        },
+        "2": {
+            "answer": "Sleeping bag",
+            "points": "21"
+        },
+        "3": {
+            "answer": "Backpack",
+            "points": "12"
+        },
+        "4": {
+            "answer": "Food/S'mores",
+            "points": "11"
+        },
+        "5": {
+            "answer": "Toilet paper",
+            "points": "11"
+        },
+        "6": {
+            "answer": "Bug spray/sunscreen",
+            "points": "7"
+        },
+        "7": {
+            "answer": "Compass",
+            "points": "5"
+        },
+        "8": {
+            "answer": null,
+            "points": null
+        }
+    }
+]
